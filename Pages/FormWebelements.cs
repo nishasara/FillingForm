@@ -18,5 +18,14 @@ namespace FormTesting.Pages
             this.Email = Email;
             this.Message = Message;
         }
+
+        public FormWebelements(String FirstName, String LastName, String Email)
+        {
+            this.FirstName = FirstName;
+            this.LastName = LastName;
+            this.Email = Email;
+        }
+
+
     }
 }

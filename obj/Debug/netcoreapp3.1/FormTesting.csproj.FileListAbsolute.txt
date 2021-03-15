@@ -88,7 +88,6 @@ D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft
 D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.csprojAssemblyReference.cache
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.AssemblyInfoInputs.cache
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.AssemblyInfo.cs
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.csproj.CoreCompileInputs.cache
@@ -96,3 +95,7 @@ D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.cspro
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.dll
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.pdb
 D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.genruntimeconfig.cache
+D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+D:\Selenium_C#\FormTesting\FormTesting\bin\Debug\netcoreapp3.1\Data\Data.csv
+D:\Selenium_C#\FormTesting\FormTesting\obj\Debug\netcoreapp3.1\FormTesting.csprojAssemblyReference.cache
